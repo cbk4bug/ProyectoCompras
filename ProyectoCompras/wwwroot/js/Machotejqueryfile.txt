@@ -1,0 +1,11 @@
+﻿(function () {
+    Login = function () {
+        function init() {
+            alert("Hola Mundo");
+        }
+        init();
+    };
+    $(document).ready(function () {
+        Login = new Login();
+    });
+})();

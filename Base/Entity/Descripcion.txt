@@ -1,0 +1,5 @@
+﻿09/06/18
+autor: raguilar
+
+Los modelos representan las clases de entity relacionadas con las tablas directas
+del gestor de base  de datos 

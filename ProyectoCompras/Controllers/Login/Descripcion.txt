@@ -1,0 +1,6 @@
+﻿09/06/18
+autor: raguilar
+
+en Esta Seccion se contemplaran todos los aspectos de carga del usuario.
+carga de menu por rol del usuario validacion del mismo
+encriptacion de contraseña y viceversa
