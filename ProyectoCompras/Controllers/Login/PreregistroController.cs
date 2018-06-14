@@ -28,6 +28,7 @@ namespace ProyectoCompras.Controllers.Login
             var result = new Dictionary<string, object>();
             try
             {
+                //roberto prueba
                principalNeg.getPrincipalService().AltaPreregistro(objPreregistro);
                result.Add("ValorGuardado", principalNeg.getPrincipalService().AltaPreregistro(objPreregistro));
             }
